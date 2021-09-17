@@ -1,0 +1,16 @@
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\bin\Debug\netcoreapp3.1\Ychao_Console.exe
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\bin\Debug\netcoreapp3.1\Ychao_Console.deps.json
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\bin\Debug\netcoreapp3.1\Ychao_Console.runtimeconfig.json
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\bin\Debug\netcoreapp3.1\Ychao_Console.runtimeconfig.dev.json
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\bin\Debug\netcoreapp3.1\Ychao_Console.dll
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\bin\Debug\netcoreapp3.1\Ychao_Console.pdb
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\bin\Debug\netcoreapp3.1\RegExp.dll
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\bin\Debug\netcoreapp3.1\RegExp.pdb
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\obj\Debug\netcoreapp3.1\Ychao_Console.csprojAssemblyReference.cache
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\obj\Debug\netcoreapp3.1\Ychao_Console.AssemblyInfoInputs.cache
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\obj\Debug\netcoreapp3.1\Ychao_Console.AssemblyInfo.cs
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\obj\Debug\netcoreapp3.1\Ychao_Console.csproj.CoreCompileInputs.cache
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\obj\Debug\netcoreapp3.1\Ychao_Console.csproj.CopyComplete
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\obj\Debug\netcoreapp3.1\Ychao_Console.dll
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\obj\Debug\netcoreapp3.1\Ychao_Console.pdb
+D:\【JC】工作簿\Ychao_Project\Ychao\Ychao_Console\obj\Debug\netcoreapp3.1\Ychao_Console.genruntimeconfig.cache

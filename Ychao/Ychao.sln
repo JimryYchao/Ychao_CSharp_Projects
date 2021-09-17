@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ychao_Console", "Ychao_Console\Ychao_Console.csproj", "{C239F456-E60F-4105-B9BF-E5A448156988}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ychao", "Ychao", "{A30C2C27-BC0E-46CF-9D43-6F9336FEFA08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ychao_Utils", "Ychao_Utils", "{5082FE4B-6894-4C9A-A30F-962D5F61F330}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ychao_Utils_RegExp", "Ychao_Utils_RegExp", "{EF9AB6EF-973F-4BE8-9942-245DB32292C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExp", "Ychao\Ychao_Utils\RegExp\RegExp.csproj", "{80243153-FA39-4271-A21A-CE08A3A71A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C239F456-E60F-4105-B9BF-E5A448156988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C239F456-E60F-4105-B9BF-E5A448156988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C239F456-E60F-4105-B9BF-E5A448156988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C239F456-E60F-4105-B9BF-E5A448156988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80243153-FA39-4271-A21A-CE08A3A71A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80243153-FA39-4271-A21A-CE08A3A71A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80243153-FA39-4271-A21A-CE08A3A71A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80243153-FA39-4271-A21A-CE08A3A71A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5082FE4B-6894-4C9A-A30F-962D5F61F330} = {A30C2C27-BC0E-46CF-9D43-6F9336FEFA08}
+		{EF9AB6EF-973F-4BE8-9942-245DB32292C1} = {5082FE4B-6894-4C9A-A30F-962D5F61F330}
+		{80243153-FA39-4271-A21A-CE08A3A71A77} = {EF9AB6EF-973F-4BE8-9942-245DB32292C1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3B9206-8F7C-4203-AC6D-E423E59596EF}
+	EndGlobalSection
+EndGlobal
