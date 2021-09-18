@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿using System;
+using System.Text.RegularExpressions;
 
 namespace Ychao.Util.RegExp.RegexVerify
 {
@@ -18,9 +19,26 @@ namespace Ychao.Util.RegExp.RegexVerify
     {
         protected static bool IsMatch(string input, string pattern)
         {
-            if (Regex.IsMatch(input, pattern))
-                return true;
-            return false;
+            try
+            {
+                var isMatch = Regex.IsMatch(input, pattern);
+                return isMatch;
+            }
+            catch (RegexMatchTimeoutException RMTE)
+            {
+                Console.WriteLine(TAG + RMTE.Message);
+                return false;
+            }
+            catch (ArgumentNullException ANE)
+            {
+                Console.WriteLine(TAG + ANE.Message);
+                return false;
+            }
+            catch (ArgumentException AE)
+            {
+                Console.WriteLine(TAG + AE.Message);
+                return false;
+            }
         }
 
     }

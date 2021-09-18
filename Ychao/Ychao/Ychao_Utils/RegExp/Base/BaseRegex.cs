@@ -10,7 +10,7 @@ namespace Ychao.Util.RegExp
 
     public abstract class BaseRegex
     {
-        protected const string TAG = "[Utils_Regex]";
+        protected const string TAG = "[Utils_Regex] ";
 
     }
 }

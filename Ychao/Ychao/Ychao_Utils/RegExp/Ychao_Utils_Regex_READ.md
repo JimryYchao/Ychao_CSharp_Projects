@@ -43,6 +43,8 @@
      - VerifyFixedLineTel(string input)【验证固定电话格式】
      - VerifyLongitude(string input)【验证地理经度】
      - VeridyLatitude(string input)【验证地理纬度】
+     - VerifyUserName(string input, UserNameFormat nameFormat)【验证用户名合法性】
+     - VerifyNickName(string input, NickNameFormat nameFormat)【验证昵称合法性】
 
 - RegexPatterns【表达式参考】
 

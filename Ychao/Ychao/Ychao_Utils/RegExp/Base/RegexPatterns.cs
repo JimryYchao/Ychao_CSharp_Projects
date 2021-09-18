@@ -13,8 +13,10 @@ namespace Ychao.Util.RegExp
     {
         void 发()
         {
-            Regex.IsMatch("", "^[-+]?(0|[1-9]\\d*)(?:\\.\\d+)?%$");
+            Regex.IsMatch("", "^[\\w\u4e00-\u9fa5]+$");
         }
+
+        #region VERIFY PATTERN
 
         #region Number
 
@@ -150,6 +152,15 @@ namespace Ychao.Util.RegExp
 
         #endregion
 
+        #endregion
+
+
+        #region REPLACEMENT
+
+        #endregion
+
+
+      
 
         void Func()
         {
