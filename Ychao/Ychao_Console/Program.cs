@@ -11,7 +11,7 @@ namespace Ychao_Console
 
             Console.WriteLine( RegexVerifyString.VerifyContainChars("啊实打实大苏打实打实大 ",new char[] { '#',' ','$','@'}));
             
-
+           // var a = { new int[]}
 
         }
     }

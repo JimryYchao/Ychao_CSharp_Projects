@@ -7,3 +7,12 @@ D:\【JC】工作簿\Ychao_Project\Ychao\Ychao\Ychao_Utils\RegExp\obj\Debug\netc
 D:\【JC】工作簿\Ychao_Project\Ychao\Ychao\Ychao_Utils\RegExp\obj\Debug\netcoreapp3.1\RegExp.csproj.CoreCompileInputs.cache
 D:\【JC】工作簿\Ychao_Project\Ychao\Ychao\Ychao_Utils\RegExp\obj\Debug\netcoreapp3.1\RegExp.dll
 D:\【JC】工作簿\Ychao_Project\Ychao\Ychao\Ychao_Utils\RegExp\obj\Debug\netcoreapp3.1\RegExp.pdb
+D:\【JC】工作簿\【YchaoScripts】Project\Ychao\Ychao\Ychao_Utils\RegExp\bin\Debug\netcoreapp3.1\RegExp.deps.json
+D:\【JC】工作簿\【YchaoScripts】Project\Ychao\Ychao\Ychao_Utils\RegExp\bin\Debug\netcoreapp3.1\RegExp.dll
+D:\【JC】工作簿\【YchaoScripts】Project\Ychao\Ychao\Ychao_Utils\RegExp\bin\Debug\netcoreapp3.1\RegExp.pdb
+D:\【JC】工作簿\【YchaoScripts】Project\Ychao\Ychao\Ychao_Utils\RegExp\obj\Debug\netcoreapp3.1\RegExp.csprojAssemblyReference.cache
+D:\【JC】工作簿\【YchaoScripts】Project\Ychao\Ychao\Ychao_Utils\RegExp\obj\Debug\netcoreapp3.1\RegExp.AssemblyInfoInputs.cache
+D:\【JC】工作簿\【YchaoScripts】Project\Ychao\Ychao\Ychao_Utils\RegExp\obj\Debug\netcoreapp3.1\RegExp.AssemblyInfo.cs
+D:\【JC】工作簿\【YchaoScripts】Project\Ychao\Ychao\Ychao_Utils\RegExp\obj\Debug\netcoreapp3.1\RegExp.csproj.CoreCompileInputs.cache
+D:\【JC】工作簿\【YchaoScripts】Project\Ychao\Ychao\Ychao_Utils\RegExp\obj\Debug\netcoreapp3.1\RegExp.dll
+D:\【JC】工作簿\【YchaoScripts】Project\Ychao\Ychao\Ychao_Utils\RegExp\obj\Debug\netcoreapp3.1\RegExp.pdb
