@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao_Console\\Ychao_Console.csproj": {}
+    "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao_Console\\Ychao_Console.csproj": {}
   },
   "projects": {
-    "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\RegExp.csproj": {
+    "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\RegExp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\RegExp.csproj",
+        "projectUniqueName": "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\RegExp.csproj",
         "projectName": "RegExp",
-        "projectPath": "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\RegExp.csproj",
+        "projectPath": "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\RegExp.csproj",
         "packagesPath": "C:\\Users\\chao.yan\\.nuget\\packages\\",
-        "outputPath": "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\obj\\",
+        "outputPath": "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao_Console\\Ychao_Console.csproj": {
+    "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao_Console\\Ychao_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao_Console\\Ychao_Console.csproj",
+        "projectUniqueName": "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao_Console\\Ychao_Console.csproj",
         "projectName": "Ychao_Console",
-        "projectPath": "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao_Console\\Ychao_Console.csproj",
+        "projectPath": "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao_Console\\Ychao_Console.csproj",
         "packagesPath": "C:\\Users\\chao.yan\\.nuget\\packages\\",
-        "outputPath": "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao_Console\\obj\\",
+        "outputPath": "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao_Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\RegExp.csproj": {
-                "projectPath": "D:\\【JC】工作簿\\【YchaoScripts】Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\RegExp.csproj"
+              "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\RegExp.csproj": {
+                "projectPath": "D:\\_JC_Workbook\\_YchaoScripts_Projects\\_CSharp_Project\\Ychao\\Ychao\\Ychao_Utils\\RegExp\\RegExp.csproj"
               }
             }
           }
